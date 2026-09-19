@@ -1,5 +1,5 @@
 -- ==============================================================================
--- POSTGRESQL SCHEMA FOR SUPABASE (Also saved as supabase/postgresql_schema.sql)
+-- POSTGRESQL SCHEMA FOR SUPABASE
 -- NOTE: THIS SCRIPT IS WRITTEN IN POSTGRESQL DIALECT FOR SUPABASE.
 -- DO NOT RUN THIS IN MYSQL. (FOR MYSQL, USE mysql/schema.sql).
 -- ==============================================================================
